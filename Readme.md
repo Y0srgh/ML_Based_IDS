@@ -20,3 +20,9 @@ trained_models_updated_time.pkl
 cnn_lstm_smote.ipynb
 
 cnn_lstm__smote_model.pkl
+
+### API file to try cnn-lstm model
+app.py
+
+### python script to test the API
+test_api.py
